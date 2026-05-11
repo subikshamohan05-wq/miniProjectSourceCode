@@ -1,4 +1,4 @@
-// Bank-account program reads a random-access file sequentially,
+ // Bank-account program reads a random-access file sequentially,
 // updates data already written to the file, creates new data to
 // be placed in the file, and deletes data previously in the file.
 #include <stdio.h>
